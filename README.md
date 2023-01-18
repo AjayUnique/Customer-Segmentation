@@ -39,7 +39,7 @@ The k-means algorithm searches for a predetermined number of clusters within an 
  *The "cluster center" is the arithmetic mean of all the points belonging to the cluster.
  *Each point is closer to its own cluster center than to other cluster centers.
 Those two assumptions are the basis of the k-means model.
-The elbow method runs k-means clustering on the dataset for a range of values for k (say from 1-15) and then for each value of k computes an average score for all clusters. By default, the distortion score is computed, the sum of square distances from each point to its assigned center. Using Elbow method and Silhouette score, we get k=3 as a optimal value for 'k' as silhoutte score=0.304.
+The elbow method runs k-means clustering on the dataset for a range of values for k (say from 1-15) and then for each value of k computes an average score for all clusters. By default, the distortion score is computed, the sum of square distances from each point to its assigned center. Using Elbow method and Silhouette score, we get k=3 as a optimal value for 'k' as silhoutte score=0.3054.
 
 ## Challenges:
 *Identify a highly imbalanced data set and manage it carefully.
