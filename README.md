@@ -56,8 +56,20 @@ Throughout the evaluation, we went via diverse steps to carry out customer segme
 
 ## References
 
-* Customer Segmentation: How to Effectively Segment Users & Clients.
-Available: https://blog.hubspot.com/service/customer-segmentation
+* Customer Segmentation: How to Effectively Segment Users & Clients. [Online].
 
+  Available: https://blog.hubspot.com/service/customer-segmentation
+  
+* RFM analysis for Customer Segmentation. [Online].
+
+  Available: https://clevertap.com/blog/rfm-analysis/
+  
+* Wikipedia.org, 'k-means clustering'. [Online].
+  
+  Available: https://en.wikipedia.org/wiki/K-means_clustering
+  
+* Elbow Method vs Silhouette Score. [Online].
+
+  https://vitalflux.com/elbow-method-silhouette-score-which-better/#:~:text=The%20elbow%20method%20is%20used,cluster%20or%20across%20different%20clusters.
 
 
