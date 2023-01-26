@@ -70,6 +70,6 @@ Throughout the evaluation, we went via diverse steps to carry out customer segme
   
 * Elbow Method vs Silhouette Score. [Online].
 
-  https://vitalflux.com/elbow-method-silhouette-score-which-better/#:~:text=The%20elbow%20method%20is%20used,cluster%20or%20across%20different%20clusters.
+  Available: https://vitalflux.com/elbow-method-silhouette-score-which-better/#:~:text=The%20elbow%20method%20is%20used,cluster%20or%20across%20different%20clusters.
 
 
