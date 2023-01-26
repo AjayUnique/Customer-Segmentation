@@ -1,12 +1,11 @@
 # Customer-Segmentation
-![image](https://user-images.githubusercontent.com/103526643/214817862-5bd92ec8-317b-4ee7-b055-31f7fabf1fb2.png)
-
 ## What is Customer Segmentation?
 Customer segmentation is the process of dividing customers into groups based on common characteristics so companies can market to each group effectively and appropriately. A company might segment customers according to a wide range of factors, including:
 * Demographics
 * Transaction history
 * Geography
 * Psychographic
+![image](https://user-images.githubusercontent.com/103526643/214817977-2046289e-f351-4046-a8cb-47aa30b45b86.png)
 
 ## Problem Statement
 This project aims is to identify major customers. Customer segmentation is the process of segments on a transnational (extending or dividing your customers into sub-groups going beyond national boundaries based on shared features. transnational corporation.) data set which contains all the transactions occurring Because you use on-site data to optimize between 01/12/2010 and 09/12/2011 for advertising off-site, segmentation happens UK-based and registered non-store online after the fact, unlike customization and retail. The company mainly sells unique all-targeting. 
