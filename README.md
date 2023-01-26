@@ -5,6 +5,7 @@ Customer segmentation is the process of dividing customers into groups based on 
 * Transaction history
 * Geography
 * Psychographic
+
 ![image](https://user-images.githubusercontent.com/103526643/214817977-2046289e-f351-4046-a8cb-47aa30b45b86.png)
 
 ## Problem Statement
